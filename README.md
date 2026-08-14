@@ -1,5 +1,6 @@
-ShortLang is meant to be a simply implemented, experimental programming language with basic features in the meantime.
-0% of this project is or will ever be coded by AI.
+**ShortLang** is meant to be a simply implemented, experimental programming language with basic features in the meantime.
+
+**0% of this project is or will ever be coded by AI.**
 
 Some properties:
 - It's meant to flow easily, like reading with continuity (i.e. the `if/th/en/el/se` pattern)
